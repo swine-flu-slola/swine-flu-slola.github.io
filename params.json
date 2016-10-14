@@ -1,0 +1,6 @@
+{
+  "name": "Swine influenza sLoLa",
+  "tagline": "Dynamics and evolution of swine influenza in pigs",
+  "body": "### Introduction\r\n\r\nThis site provides links to resources generated as part of a BBSRC-funded strategic Longer and Larger (sLoLa) project on the dynamics and evolution of swine influenza in pigs.\r\n\r\n### Repositories\r\n- [GenieR](http://github.com/swine-flu-slola/GenieR): an R package for the estimation of demographic trajectories from phylogenies\r\n- [popseq](http://github.com/swine-flu-slola/popseq): an R package for the analysis and visualisation of viral deep sequencing datasets\r\n\r\n### In progress\r\n- Links to viral deep sequencing datasets\r\n- Simulations of within-host viral evolution\r\n\r\n### Authors and Contributors\r\n- Simon Frost (@sdwfrost)\r\n- Fei Xiang (@xiangfstats)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
